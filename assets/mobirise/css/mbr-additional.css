@@ -2723,7 +2723,7 @@ a {
   }
 }
 .cid-t3n1mgl46a {
-  padding-top: 120px;
+  padding-top: 75px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
@@ -2813,8 +2813,12 @@ a {
   padding: 0;
 }
 .cid-t3n1mgl46a .mbr-text {
-  color: #000000;
+  color: #030202;
 }
 .cid-t3n1mgl46a .copyright > p {
   text-align: center;
+  color: #000000;
+}
+.cid-t3n1mgl46a H5 {
+  color: #000000;
 }
