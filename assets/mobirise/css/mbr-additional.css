@@ -3108,8 +3108,8 @@ a {
   }
 }
 .cid-t3mLe52CF5 {
-  padding-top: 120px;
-  padding-bottom: 75px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
@@ -3202,4 +3202,7 @@ a {
 }
 .cid-t3mLe52CF5 .copyright > p {
   text-align: center;
+}
+.cid-t3mLe52CF5 H5 {
+  color: #000000;
 }
